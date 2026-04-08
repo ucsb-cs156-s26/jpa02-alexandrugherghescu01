@@ -39,11 +39,11 @@ public class Developer {
     public static Team getTeam() {
     Team team = new Team("s26-03");
     team.addMember("Alexandru");
-    team.addMember("Alex Yu Xuan");
+    team.addMember("Alex");
     team.addMember("Raymond");
-    team.addMember("Brian W");
+    team.addMember("Brian");
     team.addMember("Kalyan");
-    team.addMember("Hrithik Chandra");
+    team.addMember("Hrithik");
     return team;
 
 }
